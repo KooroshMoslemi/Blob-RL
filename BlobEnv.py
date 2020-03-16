@@ -106,8 +106,8 @@ class BlobEnv:
         self.player.action(action)
 
         #### FUN ###
-        self.enemy.move()
-        self.food.move()
+        #self.enemy.move()
+        #self.food.move()
         ##############
 
         if self.RETURN_IMAGES:
